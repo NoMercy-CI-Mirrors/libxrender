@@ -32,7 +32,7 @@
 project(
   'libXrender',
   'c',
-  version: '0.9.12',
+  version: '0.9.13',
   license: 'HPND-sell-variant',
   license_files: 'COPYING',
   meson_version: '>= 1.1.0',
